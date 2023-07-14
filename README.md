@@ -10,7 +10,7 @@
   <br>
   https://github.com/p-wel/allegro-con-brio
 </h3>
-<h5 align="center">(code is private, but I can tell more about it 🤓)</h5>
+<h5 align="center">(code is private, but you can find overview there)</h5>
 
 ---
 <h3 align="center">Main stack:</h3>
