@@ -16,7 +16,7 @@
 ---
 <h4 align="center">My main stack:</h4>
 <p align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a>
+  <a href="https://www.oracle.com/pl/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/5138804?s=48&v=4" alt="spring" width="30" height="30"/> </a>
 </p>
 
