@@ -1,3 +1,5 @@
+
+---
 <h3 align="center">
   Hi 👋
 </h3>
@@ -12,6 +14,9 @@
   https://github.com/p-wel/allegro-con-brio
 </h4>
 <h5 align="center">(code is private, but you can find overview there)</h5>
+
+---
+<h5 align="center">Go check out my Pinned projects below</h5>
 
 ---
 <h4 align="center">My main stack:</h4>
