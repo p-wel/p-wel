@@ -1,8 +1,5 @@
 
 ---
-<h3 align="center">
-  Hi 👋
-</h3>
 <p align="center"> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fp-wel&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views+%5Btoday+%2F+total%5D&edge_flat=false"/></a> </p>
 
 <p align="center">
@@ -12,7 +9,6 @@
   <br>
   https://github.com/p-wel/allegro-con-brio
 </h4>
-<h5 align="center">(code is private, but you can find overview there)</h5>
 
 ---
 <h5 align="center">Go check out my Pinned projects below</h5>
@@ -52,7 +48,3 @@
   </p>
 
 ---
-<div align="center">
-<h4 align="center">Some silly github stats:</h4>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=p-wel&" alt="p-wel" /></p>
-</div>
