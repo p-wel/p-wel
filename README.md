@@ -5,28 +5,20 @@
 <p align="center">
 </p>
 
-<h4 align="center">Here's my current WIP project:
-  <br>
-  https://github.com/p-wel/allegro-automation
-</h4>
-
 ---
-<h5 align="center">Go check out my Pinned projects below</h5>
-
----
-<h4 align="center">My main stack:</h4>
+<h4 align="center">Main stack:</h4>
 <p align="center">
   <a href="https://www.oracle.com/pl/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/5138804?s=48&v=4" alt="spring" width="30" height="30"/> </a>
 </p>
 
-<h4 align="center">My secondary stack:</h4>
+<h4 align="center">Secondary stack:</h4>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/> </a>
   </p>
 
-<h4 align="center">Some of tools I am familiar with (>6 months)</h4>
+<h4 align="center">Other:</h4>
 <p align="center">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/b2826c06-9c1e-47ed-8808-c5bd055985e4" alt="bash" width="30" height="30"/> </a>
