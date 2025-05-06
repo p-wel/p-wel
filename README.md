@@ -1,6 +1,6 @@
 
 ---
-<p align="center"> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fp-wel&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views+%5Btoday+%2F+total%5D&edge_flat=false"/></a> </p>
+<p align="center"> <a href="https://hitscounter.dev"><img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fp-wel&label=Visits+%5BToday+%2F+Total%5D&icon=github&color=%23198754"/></a> </p>
 
 <p align="center">
 </p>
